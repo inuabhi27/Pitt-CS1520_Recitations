@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id = "main">
+	<div id = "parent" class = "button">
+    	<div id = "child" class = "button">
+        	child
+        </div>
+        <div id = "other" class = "button">
+        	other
+        </div>
+    </div>
+</div>
+<script>
+var p = document.querySelector('#parent');
+p.addEventListener('click',function(){ 
+	console.log('parent clicked');
+    });
+var c = document.querySelector('#child');
+c.addEventListener('click',function(){ 
+	console.log('child clicked');
+    });
+
+    
+</script>
+
+</body>
+</html>

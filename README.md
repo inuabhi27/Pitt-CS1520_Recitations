@@ -16,7 +16,7 @@ Recitation 3: Regular Expressions
 
 Recitation 4: Python - Data Structures and Installations
 
-Recitation 5: More Python (Decorators etc)
+Recitation 5: More Python (Decorators, Generators etc)
 
 Recitation 6: HTTP Netwroking (GET, POST etc) and Intro to Flask
 

@@ -9,6 +9,7 @@ Th: 4-6pm
 Fr: 11:30am -1:30pm
 
 Recitation 1: Project 1 discussion
+
 Recitation 2: DOM and Events
 Recitation 3: Regular Expressions
 Recitation 4: Python - Data Structures and Installations
